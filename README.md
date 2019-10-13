@@ -1,4 +1,4 @@
-Demo: [Live App](http://minor-frog.surge.sh/)
+Demo: [Live Page](http://minor-frog.surge.sh/)
 
 # The Venue
 
