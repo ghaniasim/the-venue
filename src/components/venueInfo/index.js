@@ -25,7 +25,7 @@ const VenueInfo = () => {
                                         Event Date & Time
                                     </div>
                                     <div className="vn_desc">
-                                        23 December 2019 @10.00 pm
+                                        23 August 2020 @10.00 pm
                                     </div>
                                 </div>
                             </div>
